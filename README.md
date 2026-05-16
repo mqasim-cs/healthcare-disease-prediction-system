@@ -29,4 +29,4 @@ The project evaluates model performance using:
 - Confusion matrices
 
 ## Author
-Mohammad Qasim
+Muhammad Qasim
