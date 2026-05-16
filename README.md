@@ -1,6 +1,6 @@
 # Healthcare Disease Prediction System
 
-Machine Learning project for predicting diseases using healthcare datasets from the UCI Machine Learning Repository.
+Machine Learning project for predicting diseases using healthcare datasets from the UCI Machine Learning Repository
 
 ## Datasets
 - Heart Disease Dataset
